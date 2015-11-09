@@ -1,6 +1,6 @@
 ## Introduction
 
-This document describes what an archive should contain to be used with [(M|S)MSImporter](https://github.com/axelhenry/msmsimporter/)
+This document describes what an archive should contain to be used with [(M|S)MSImporter](https://github.com/axelhenry/msmsimporter-android/)
 
 ### Archive format
 
